@@ -28,6 +28,14 @@ and start sending [requests](https://github.com/facebook/WebDriverAgent/wiki/Que
 
 More about how to start WebDriverAgent [here](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent).
 
+Next step, refer to [This article](https://testerhome.com/topics/7220) to make it work. The main steps are:
+* port forward support
+* use terminal or Xcode to test code
+* visit http://localhost:8100/status on Mac to verify if WDA server works
+
+To be notice, you can use command under the help of Article above in terminal instead of Xcode IDE to run WDA project.
+
+
 ## Known Issues
 If you are having some issues please checkout [wiki](https://github.com/facebook/WebDriverAgent/wiki/Common-Issues) first.
 
